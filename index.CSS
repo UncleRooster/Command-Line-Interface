@@ -1,0 +1,21 @@
+h1{
+    color:black;
+    text-align: center;
+}
+
+h2{
+    color:lightcoral;
+    text-align: left;
+}
+
+table{
+    border:2px solid maroon;
+    margin: 0 auto;
+    width:650px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+th{
+    font-weight:bold;
+    background-color: powderblue;
+}
