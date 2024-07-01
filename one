@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Command Line Interface Table Reference</title>
+    <link rel="stylesheet" href="resources/styles.css" type="text/css">
+</head>
+<body>
+    <h1>Command Line Interface Table Reference</h1>
+    <h2>Table Commands</h2>
+    <table>
+        <thead>
+            <th>Command</th>
+            <th>Name</th>
+            <th>Description</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td>ls</td>
+                <td>list directories</td>
+                <td>ls lists all the files and directories you are in.</td>
+            </tr>
+            <tr>
+                <td>pwd</td>
+                <td>print working directory</td>
+                <td>pwd tells you what directory you are in.</td>
+            </tr>
+            <tr>
+                <td>cd</td>
+                <td>changed directory</td>
+                <td>cd moves to any other directory</td>
+            </tr>
+            <tr>
+                <td>mkdir</td>
+                <td>make directory</td>
+                <td>mkdir makes a new directory</td>
+            </tr>
+            <tr>
+                <td>touch</td>
+                <td>touch</td>
+                <td>touch creates a new file</td>
+            </tr>
+            <tr>
+                <td>clear</td>
+                <td>clear</td>
+                <td>clear is used to clear your terminal</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
